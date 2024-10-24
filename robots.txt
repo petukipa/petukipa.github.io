@@ -1,0 +1,24 @@
+User-Agent: *
+Disallow: /login
+
+Sitemap: https://petukipa.github.io/sitemap/sitemap_index.petukipa
+Sitemap: https://petukipa.github.io/wbE/sitemap_index.petukipa
+Sitemap: https://petukipa.github.io/BMs/sitemap_index.petukipa
+Sitemap: https://petukipa.github.io/HDa/sitemap_index.petukipa
+Sitemap: https://petukipa.github.io/UIN/sitemap_index.petukipa
+Sitemap: https://petukipa.github.io/arD/sitemap_index.petukipa
+Sitemap: https://petukipa.github.io/MUP/sitemap_index.petukipa
+Sitemap: https://petukipa.github.io/Bex/sitemap_index.petukipa
+Sitemap: https://petukipa.github.io/fON/sitemap_index.petukipa
+Sitemap: https://petukipa.github.io/OpJ/sitemap_index.petukipa
+Sitemap: https://petukipa.github.io/vfX/sitemap_index.petukipa
+Sitemap: https://petukipa.github.io/QiJ/sitemap_index.petukipa
+Sitemap: https://petukipa.github.io/fRw/sitemap_index.petukipa
+Sitemap: https://petukipa.github.io/LeK/sitemap_index.petukipa
+Sitemap: https://petukipa.github.io/itL/sitemap_index.petukipa
+Sitemap: https://petukipa.github.io/AnP/sitemap_index.petukipa
+Sitemap: https://petukipa.github.io/sbm/sitemap_index.petukipa
+Sitemap: https://petukipa.github.io/gnd/sitemap_index.petukipa
+Sitemap: https://petukipa.github.io/paK/sitemap_index.petukipa
+Sitemap: https://petukipa.github.io/Nym/sitemap_index.petukipa
+Sitemap: https://petukipa.github.io/XFn/sitemap_index.petukipa
